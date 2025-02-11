@@ -38,5 +38,5 @@ Pstudents/
 Проект распространяется по лицензии [MIT](LICENSE).
 
 ## 🛠 Контакты
-📧 Email: example@email.com
-💻 GitHub: [Alexandr-sys2024](https://github.com/Alexandr-sys2024)
+📧 Email: a.shubin2025@gmail.com 
+💻 GitHub: https://github.com/Alexandr-sys2024
